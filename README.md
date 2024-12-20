@@ -21,11 +21,6 @@ I'm a Software Engineer passionate about leveraging technology to solve real-wor
 - Led development teams and established engineering processes
 - Integrated AI/ML solutions for various business needs
 
-## 🌍 Languages
-
-- English (Professional)
-- Serbian (Native)
-
 ## 📫 Get in Touch
 
 - Email: knezevicdev@gmail.com
