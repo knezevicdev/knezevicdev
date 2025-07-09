@@ -1,12 +1,10 @@
-# 👋 Hi, I'm Nikola Knežević
+# whoami 
 
-I'm a Software Engineer passionate about leveraging technology to solve real-world problems. With extensive experience in both frontend and backend development, I specialize in building scalable, performance-focused applications and leading engineering teams.
+- technology agnostic software craftsman
+- debugging software since 2010
+- software architecture, engineering leadership and software rescue engineering
 
-## 📫 Get in Touch
+# ping
 
-- Email: knezevicdev@gmail.com
-- LinkedIn: [knezevicdev](https://www.linkedin.com/in/knezevicdev)
-
----
-
-💡 *"I am always eager to collaborate with like-minded professionals to bring innovative ideas to life."*
+- https://www.linkedin.com/in/knezevicdev
+- knezevicdev@gmail.com
